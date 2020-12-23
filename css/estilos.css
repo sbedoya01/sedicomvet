@@ -100,10 +100,6 @@ a {
     box-shadow: -10px 10px 8px #888;
 }
 
-.tresColumnasResponsive {
-    display: flex;
-}
-
 .tabla {
     font-size: 10px;
 }
